@@ -1,2 +1,2 @@
-# projeto portfolio
+# projeto portfólio
 Projeto final do Curso em Vídeo de HTML5 e CSS3
